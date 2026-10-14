@@ -1,0 +1,23 @@
+# --- Gradle ---
+.gradle/
+.gradle-cache/
+build/
+out/
+run/
+
+# Local Gradle distribution (downloaded tooling, not part of the project)
+gradle-8.14.6-all/
+gradle-8.14.6-all.zip
+
+# --- IDE ---
+.idea/
+*.iml
+.vscode/
+
+# --- Logs / scratch ---
+*.log
+fix_wrapper.ps1
+
+# --- Third-party reference sources (kept locally only; not shipped or published) ---
+wurst source code/
+grim source code/

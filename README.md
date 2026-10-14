@@ -6,7 +6,8 @@ world, render, player and automation, all driven from one built-in Click GUI.
 The whole client lives behind a single key. Press **`Left Alt`** and every window is there:
 draggable, resizable, with live sliders and toggles that re-pack instead of stacking.
 
-> Showcase page: [`Versions/index.html`](Versions/index.html)
+> **Showcase page:** https://zstudio-lab.github.io/Celarix-Client/
+> (source: [`Versions/index.html`](Versions/index.html))
 
 ---
 
